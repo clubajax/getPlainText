@@ -4,7 +4,7 @@
 
 Normalizes innerText across browsers
 
-Returns a line-break, properly spaced, normailized plain text
+Returns a line-break'ed, properly spaced, normalized plain text
 representation of multiple child nodes which can't be done via
 textContent or innerText because those two methods are vastly
 different, and even innerText works differently across browsers.
